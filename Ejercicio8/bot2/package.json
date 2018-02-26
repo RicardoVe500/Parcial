@@ -1,0 +1,22 @@
+{
+  "name": "bot2",
+  "version": "1.0.0",
+  "description": "Ejercicio5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoVe500/Parcial.git"
+  },
+  "author": "rick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoVe500/Parcial/issues"
+  },
+  "homepage": "https://github.com/RicardoVe500/Parcial#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
